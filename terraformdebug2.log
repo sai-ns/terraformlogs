@@ -1,0 +1,73 @@
+2020/06/19 17:05:11 [INFO] Terraform version: 0.12.26  
+2020/06/19 17:05:11 [INFO] Go runtime version: go1.12.13
+2020/06/19 17:05:11 [INFO] CLI args: []string{"C:\\WINDOWS\\system32\\terraform.exe", "plan"}
+2020/06/19 17:05:11 [DEBUG] Attempting to open CLI config file: C:\Users\Sai Nooli\AppData\Roaming\terraform.rc
+2020/06/19 17:05:11 [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2020/06/19 17:05:11 [INFO] CLI command args: []string{"plan"}
+2020/06/19 17:05:11 [TRACE] Meta.Backend: no config given or present on disk, so returning nil config
+2020/06/19 17:05:11 [TRACE] Meta.Backend: backend has not previously been initialized in this working directory
+2020/06/19 17:05:11 [DEBUG] New state was assigned lineage "5ffffc2f-66b7-7067-4d78-c24e4bcf3729"
+2020/06/19 17:05:11 [TRACE] Meta.Backend: using default local state only (no backend configuration, and no existing initialized backend)
+2020/06/19 17:05:11 [TRACE] Meta.Backend: instantiated backend of type <nil>
+2020/06/19 17:05:11 [DEBUG] checking for provider in "."
+2020/06/19 17:05:11 [DEBUG] checking for provider in "C:\\WINDOWS\\system32"
+2020/06/19 17:05:11 [DEBUG] checking for provider in ".terraform\\plugins\\windows_amd64"
+2020/06/19 17:05:11 [DEBUG] found provider "terraform-provider-azurerm_v2.15.0_x5.exe"
+2020/06/19 17:05:11 [DEBUG] found valid plugin: "azurerm", "2.15.0", "C:\\Users\\Sai Nooli\\.terraform\\plugins\\windows_amd64\\terraform-provider-azurerm_v2.15.0_x5.exe"
+2020/06/19 17:05:11 [DEBUG] checking for provisioner in "."
+2020/06/19 17:05:11 [DEBUG] checking for provisioner in "C:\\WINDOWS\\system32"
+2020/06/19 17:05:11 [DEBUG] checking for provisioner in ".terraform\\plugins\\windows_amd64"
+2020/06/19 17:05:11 [TRACE] Meta.Backend: backend <nil> does not support operations, so wrapping it in a local backend
+2020/06/19 17:05:11 [INFO] backend/local: starting Plan operation
+2020/06/19 17:05:11 [TRACE] backend/local: requesting state manager for workspace "default"
+2020/06/19 17:05:11 [TRACE] backend/local: state manager for workspace "default" will:
+ - read initial snapshot from terraform.tfstate
+ - write new snapshots to terraform.tfstate
+ - create any backup at terraform.tfstate.backup
+2020/06/19 17:05:11 [TRACE] backend/local: requesting state lock for workspace "default"
+2020/06/19 17:05:11 [TRACE] statemgr.Filesystem: preparing to manage state snapshots at terraform.tfstate
+2020/06/19 17:05:11 [TRACE] statemgr.Filesystem: no previously-stored snapshot exists
+2020/06/19 17:05:11 [TRACE] statemgr.Filesystem: locking terraform.tfstate using LockFileEx
+2020/06/19 17:05:11 [TRACE] statemgr.Filesystem: writing lock metadata to .terraform.tfstate.lock.info
+2020/06/19 17:05:11 [TRACE] backend/local: reading remote state for workspace "default"
+2020/06/19 17:05:11 [TRACE] statemgr.Filesystem: reading latest snapshot from terraform.tfstate
+2020/06/19 17:05:11 [TRACE] statemgr.Filesystem: snapshot file has nil snapshot, but that's okay
+2020/06/19 17:05:11 [TRACE] statemgr.Filesystem: read nil snapshot
+2020/06/19 17:05:11 [TRACE] backend/local: retrieving local state snapshot for workspace "default"
+2020/06/19 17:05:11 [TRACE] backend/local: building context for current working directory
+2020/06/19 17:05:11 [TRACE] terraform.NewContext: starting
+2020/06/19 17:05:11 [TRACE] terraform.NewContext: resolving provider version selections
+2020/06/19 17:05:12 [TRACE] terraform.NewContext: loading provider schemas
+2020/06/19 17:05:12 [TRACE] LoadSchemas: retrieving schema for provider type "azurerm"
+2020-06-19T17:05:12.119-0500 [INFO]  plugin: configuring client automatic mTLS
+2020-06-19T17:05:12.156-0500 [DEBUG] plugin: starting plugin: path="C:\Users\Sai Nooli\.terraform\plugins\windows_amd64\terraform-provider-azurerm_v2.15.0_x5.exe" args=["C:\Users\Sai Nooli\gitrepos\kvtest\.terraform\plugins\windows_amd64\terraform-provider-azurerm_v2.15.0_x5.exe"]
+2020-06-19T17:05:12.162-0500 [DEBUG] plugin: plugin started: path="C:\Users\Sai Nooli\.terraform\plugins\windows_amd64\terraform-provider-azurerm_v2.15.0_x5.exe" pid=1116
+2020-06-19T17:05:12.162-0500 [DEBUG] plugin: waiting for RPC address: path="C:\Users\Sai Nooli\.terraform\plugins\windows_amd64\terraform-provider-azurerm_v2.15.0_x5.exe"
+2020-06-19T17:05:12.298-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Advisor"..
+2020-06-19T17:05:12.298-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Advisor"..
+2020-06-19T17:05:12.298-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Analysis Services"..
+2020-06-19T17:05:12.298-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Analysis Services"..
+2020-06-19T17:05:12.299-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "API Management"..
+2020-06-19T17:05:12.299-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "API Management"..
+2020-06-19T17:05:12.301-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "App Configuration"..
+2020-06-19T17:05:12.301-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "App Configuration"..
+2020-06-19T17:05:12.301-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "App Platform"..
+2020-06-19T17:05:12.301-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "App Platform"..
+2020-06-19T17:05:12.301-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Application Insights"..
+2020-06-19T17:05:12.301-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Application Insights"..
+2020-06-19T17:05:12.301-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Authorization"..
+2020-06-19T17:05:12.301-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Authorization"..
+2020-06-19T17:05:12.301-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Automation"..
+2020-06-19T17:05:12.302-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Automation"..
+2020-06-19T17:05:12.303-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Batch"..
+2020-06-19T17:05:12.303-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Batch"..
+2020-06-19T17:05:12.303-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Blueprints"..
+2020-06-19T17:05:12.303-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Blueprints"..
+2020-06-19T17:05:12.303-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Bot"..
+2020-06-19T17:05:12.303-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Bot"..
+2020-06-19T17:05:12.303-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "CDN"..
+2020-06-19T17:05:12.303-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "CDN"..
+2020/06/19 17:06:12 [TRACE] statemgr.Filesystem: removing lock metadata file .terraform.tfstate.lock.info
+2020/06/19 17:06:12 [TRACE] statemgr.Filesystem: unlocked by closing terraform.tfstate
+2020-06-19T17:06:12.168-0500 [WARN]  plugin: plugin failed to exit gracefully
+2020-06-19T17:06:12.175-0500 [DEBUG] plugin: plugin process exited: path="C:\Users\Sai Nooli\.terraform\plugins\windows_amd64\terraform-provider-azurerm_v2.15.0_x5.exe" pid=1116 error="exit status 1"
