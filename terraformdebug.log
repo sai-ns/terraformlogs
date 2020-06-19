@@ -1,0 +1,135 @@
+2020-06-19T16:59:22.791-0500 [DEBUG] plugin: waiting for RPC address: path="C:\Users\Sai Nooli\.terraform\plugins\windows_amd64\terraform-provider-azurerm_v2.15.0_x5.exe"
+2020-06-19T16:59:22.952-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Advisor"..
+2020-06-19T16:59:22.953-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Advisor"..
+2020-06-19T16:59:22.953-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Analysis Services"..
+2020-06-19T16:59:22.953-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Analysis Services"..
+2020-06-19T16:59:22.953-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "API Management"..
+2020-06-19T16:59:22.953-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "API Management"..
+2020-06-19T16:59:22.953-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "App Configuration"..
+2020-06-19T16:59:22.953-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "App Configuration"..
+2020-06-19T16:59:22.953-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "App Platform"..
+2020-06-19T16:59:22.953-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "App Platform"..
+2020-06-19T16:59:22.954-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Application Insights"..
+2020-06-19T16:59:22.954-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Application Insights"..
+2020-06-19T16:59:22.954-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Authorization"..
+2020-06-19T16:59:22.954-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Authorization"..
+2020-06-19T16:59:22.954-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Automation"..
+2020-06-19T16:59:22.954-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Automation"..
+2020-06-19T16:59:22.955-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Batch"..
+2020-06-19T16:59:22.955-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Batch"..
+2020-06-19T16:59:22.955-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Blueprints"..
+2020-06-19T16:59:22.955-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Blueprints"..
+2020-06-19T16:59:22.955-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Bot"..
+2020-06-19T16:59:22.955-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Bot"..
+2020-06-19T16:59:22.955-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "CDN"..
+2020-06-19T16:59:22.955-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "CDN"..
+2020-06-19T16:59:22.961-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Cognitive Services"..
+2020-06-19T16:59:22.961-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Cognitive Services"..
+2020-06-19T16:59:22.961-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Compute"..
+2020-06-19T16:59:22.961-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Compute"..
+2020-06-19T16:59:22.961-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Container Services"..
+2020-06-19T16:59:22.961-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Container Services"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "CosmosDB"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "CosmosDB"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Cost Management"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Cost Management"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Custom Providers"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Custom Providers"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "DataBricks"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "DataBricks"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Data Factory"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Data Factory"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Data Lake"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Data Lake"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Database Migration"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Database Migration"..
+2020-06-19T16:59:22.962-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Data Share"..
+2020-06-19T16:59:22.963-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Data Share"..
+2020-06-19T16:59:22.963-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "DevSpaces"..
+2020-06-19T16:59:22.963-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "DevSpaces"..
+2020-06-19T16:59:22.963-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Dev Test"..
+2020-06-19T16:59:22.963-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Dev Test"..
+2020-06-19T16:59:22.964-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "DNS"..
+2020-06-19T16:59:22.964-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "DNS"..
+2020-06-19T16:59:22.964-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "EventGrid"..
+2020-06-19T16:59:22.964-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "EventGrid"..
+2020-06-19T16:59:22.964-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "EventHub"..
+2020-06-19T16:59:22.965-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "EventHub"..
+2020-06-19T16:59:22.968-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "FrontDoor"..
+2020-06-19T16:59:22.968-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "FrontDoor"..
+2020-06-19T16:59:22.968-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "HDInsight"..
+2020-06-19T16:59:22.968-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "HDInsight"..
+2020-06-19T16:59:22.969-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Health Care"..
+2020-06-19T16:59:22.969-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Health Care"..
+2020-06-19T16:59:22.969-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "IoT Hub"..
+2020-06-19T16:59:22.969-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "IoT Hub"..
+2020-06-19T16:59:22.969-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "IoT Central"..
+2020-06-19T16:59:22.969-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "IoT Central"..
+2020-06-19T16:59:22.969-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "KeyVault"..
+2020-06-19T16:59:22.969-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "KeyVault"..
+2020-06-19T16:59:22.969-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Kusto"..
+2020-06-19T16:59:22.969-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Kusto"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Log Analytics"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Log Analytics"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Logic"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Logic"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Machine Learning"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Machine Learning"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Maintenance"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Maintenance"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Managed Applications"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Managed Applications"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Management Group"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Management Group"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Maps"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Maps"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "MariaDB"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "MariaDB"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Media"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Media"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Mixed Reality"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Mixed Reality"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Monitor"..
+2020-06-19T16:59:22.970-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Monitor"..
+2020-06-19T16:59:22.971-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Managed Service Identities"..
+2020-06-19T16:59:22.971-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Managed Service Identities"..
+2020-06-19T16:59:22.971-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Microsoft SQL Server / SQL Azure"..      
+2020-06-19T16:59:22.971-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Microsoft SQL Server / SQL Azure"..
+2020-06-19T16:59:22.971-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "MySQL"..
+2020-06-19T16:59:22.971-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "MySQL"..
+2020-06-19T16:59:22.971-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "NetApp"..
+2020-06-19T16:59:22.971-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "NetApp"..
+2020-06-19T16:59:22.972-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Network"..
+2020-06-19T16:59:22.972-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Network"..
+2020-06-19T16:59:22.972-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Notification Hub"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Notification Hub"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Policy"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Policy"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Portal"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Portal"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "PostgreSQL"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "PostgreSQL"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "PowerBI"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "PowerBI"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Private DNS"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Private DNS"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Recovery Services"..
+2020-06-19T16:59:22.973-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Recovery Services"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Redis"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Redis"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Relay"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Relay"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Resources"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Resources"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Search"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Search"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Security Center"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Security Center"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "Sentinel"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "Sentinel"..
+2020-06-19T16:59:22.974-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Data Sources for "ServiceBus"..
+2020-06-19T16:59:22.976-0500 [DEBUG] plugin.terraform-provider-azurerm_v2.15.0_x5.exe: [DEBUG] Registering Resources for "ServiceBus"..
+2020/06/19 17:00:22 [TRACE] statemgr.Filesystem: removing lock metadata file .terraform.tfstate.lock.info
+2020/06/19 17:00:22 [TRACE] statemgr.Filesystem: unlocked by closing terraform.tfstate
+2020-06-19T17:00:22.798-0500 [WARN]  plugin: plugin failed to exit gracefully
+2020-06-19T17:00:22.806-0500 [DEBUG] plugin: plugin process exited: path="C:\Users\Sai Nooli\.terraform\plugins\windows_amd64\terraform-provider-azurerm_v2.15.0_x5.exe" pid=12668 error="exit status 1"
